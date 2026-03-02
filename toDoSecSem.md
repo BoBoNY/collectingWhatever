@@ -1,9 +1,18 @@
 # Things to do in my second semseter
 
-- [x] a
+## April
+
+- [ ] a
 - [ ] b
 - [ ] c
-- [ ] become empolyed
 
+## May
 
-Mon Mar  2 10:32:04 EST 2026
+- [ ] Pre-study
+- [ ] Finish a book
+
+## June
+
+- [ ] build a website
+- [ ] build a portfolio
+
