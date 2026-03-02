@@ -1,7 +1,9 @@
 # Things to do in my second semseter
 
-- [ ] a
+- [x] a
 - [ ] b
 - [ ] c
+- [ ] become empolyed
 
-Mon Mar  2 10:18:45 EST 2026
+
+Mon Mar  2 10:32:04 EST 2026
